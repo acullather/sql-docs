@@ -32,7 +32,7 @@ ms.workload: "On Demand"
   
 ##  <a name="bkmk_requirements_to_pin"></a> Requirements to Pin  
   
--   The report server is configured for [!INCLUDE[sspowerbi](../includes/sspowerbi-md.md)] integration. For more information, see [Power BI Report Server Integration &#40;Configuration Manager&#41;](../reporting-services/install-windows/power-bi-report-server-integration-configuration-manager.md). If the report server has not been configured, you will not see the **Pin to Power BI Dashboard** button the toolbar.  
+-   The report server is configured for [!INCLUDE[sspowerbi](../includes/sspowerbi-md.md)] integration. For more information, see [Power BI Report Server Integration &#40;Configuration Manager&#41;](../reporting-services/install-windows/power-bi-report-server-integration-configuration-manager.md). If the report server has not been configured, you will not see the **Pin to Power BI Dashboard** button in the toolbar.  
   
      ![ssRS_Report_PowerBI](../reporting-services/media/ssrs-report-powerbi.png)  
   
